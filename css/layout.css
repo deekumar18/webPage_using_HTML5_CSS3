@@ -1,0 +1,28 @@
+.left_img {    
+    display: flex;
+    width: 40vw;
+    height: 99%;
+}
+
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: fixed;
+}
+ 
+.head-wrapper
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+

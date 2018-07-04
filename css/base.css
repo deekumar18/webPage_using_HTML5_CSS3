@@ -1,0 +1,22 @@
+body
+{   
+margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;    
+    }
+    
+li
+{
+    list-style: none;
+    display: inline;
+    padding: 5vw;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+ 
